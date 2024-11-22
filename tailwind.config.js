@@ -11,9 +11,6 @@ export default {
         'main-light-color': '#76ABAE',
         'side-light-color': '#EEEEEE',
       },
-      backgroung:{
-
-      }
     },
   },
   plugins: [],
